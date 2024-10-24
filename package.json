@@ -1,0 +1,14 @@
+{
+    "name": "docker-node-mysql",
+    "version": "1.0.0",
+    "description": "Aplicación Node.js con Docker y MySQL",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mysql": "^2.18.1"
+    }
+  }
+  
